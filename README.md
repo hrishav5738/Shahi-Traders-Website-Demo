@@ -9,8 +9,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`.
-
+Visit the demo website at - "https://shahi-traders-website.vercel.app/"
 ## Documentation
 
 For a detailed explanation of the project structure and the role of every folder, see [ARCHITECTURE.md](ARCHITECTURE.md).
